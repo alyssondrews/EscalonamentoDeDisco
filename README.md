@@ -7,7 +7,7 @@ Este código permite você realizar os seis tipos de escalonamento de E/S para d
 -LOOK
 -C-LOOK
 
-##Fundamentação
+##Fundamentação:
 O código foi desenvolvido na linguagem Python e tem finalidade com a ferramenta VSCode última versão.
 
 ##Autores:
